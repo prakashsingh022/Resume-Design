@@ -52,6 +52,7 @@ If you have any suggestions or want to collaborate, feel free to reach out:
 - 💻 [GitHub](https://github.com)
 
 ---
+ - Made with ❤️ by Prakash kumar
 
 ✨ *Thank you for visiting my resume project!* ✨
 
