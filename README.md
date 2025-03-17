@@ -1,5 +1,3 @@
-# Resume Website
-
 # Resume Website Project
 
 ## 📌 Project Overview
