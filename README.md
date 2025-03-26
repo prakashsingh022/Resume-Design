@@ -43,6 +43,11 @@ This is a personal resume website built using **HTML**, **CSS**, and **JavaScrip
 - 🔥 Implement smooth scroll and animations.
 - 🌟 Enhance the design with Bootstrap or TailwindCSS.
 
+-  📸 Screenshort
+- 
+   ![Screenshot 2025-03-15 203713](https://github.com/user-attachments/assets/e55108f5-b658-4d2a-be13-e7a2f0349556)
+![Screenshot 2025-03-26 150006](https://github.com/user-attachments/assets/152fae34-14af-4e2d-8deb-92d9eed0f31b)
+
 ## 📧 Contact Me
 
 If you have any suggestions or want to collaborate, feel free to reach out:
